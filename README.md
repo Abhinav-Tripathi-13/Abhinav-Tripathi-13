@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AMBRAYANIMATION
-- 👀 I’m interested in 3D Animation
-- 🌱 I’m currently learning Blender.
+
+- 🌱 I’m currently learning Programming.
 
 <!---
 AMBRAYANIMATION/AMBRAYANIMATION is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
