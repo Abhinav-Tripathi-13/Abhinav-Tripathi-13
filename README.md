@@ -1,4 +1,4 @@
-## Hi there! I'm [Abhinav Tripathi] 👋
+## Hi there! I'm Abhinav Tripathi 👋
 
 Welcome to my GitHub profile! I'm a passionate developer and first-year Computer Science Engineering student who loves exploring technology, solving problems, and working on innovative projects. Whether it’s crafting efficient code, building websites, or developing impactful solutions, I’m always up for a challenge.
 
@@ -9,8 +9,6 @@ Welcome to my GitHub profile! I'm a passionate developer and first-year Computer
 - **Backend**: NodeJS
 - **Databases**: MongoDB
 - **Other Skills**: C programming, Problem-solving, Team collaboration
-
-
 ---
 
 ### 🎨 My GitHub Stats:
