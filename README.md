@@ -8,7 +8,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 First-Year B.Tech CSE Student  
+- 🎓 Second-Year B.Tech CSE Student  
 - 💡 Passionate about technology, problem-solving, and innovative projects  
 - 🌱 Exploring full-stack development and real-world applications  
 - 🚀 Always ready to learn and take on new challenges  
